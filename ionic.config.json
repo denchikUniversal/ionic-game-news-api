@@ -1,0 +1,7 @@
+{
+  "name": "CardFetch",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
